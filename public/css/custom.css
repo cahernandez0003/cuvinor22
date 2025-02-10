@@ -1,0 +1,21 @@
+div.container {
+	padding-top: 60px;
+}
+
+.bg-purple {
+	background-color: #6a4d7f !important;
+}
+
+.text-purple {
+	color: #6a4d7f !important;
+}
+
+footer {
+	background-color: darkslategrey;
+	color: #fff;
+	margin-top: 40px;
+}
+footer p {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
